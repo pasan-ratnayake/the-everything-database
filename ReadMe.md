@@ -7,6 +7,6 @@ Hope this helps.
 ## Scripts
 
 - AutoHotKey
-  - [Basic V2 Template](scripts/autohotkey/basic-v2-template.ahk)
-  - [Spam Left Click](scripts/autohotkey/spam-left-click.ahk)
-  - [Run Scripts In Folder](scripts/autohotkey/run-scripts-in-folder.ahk)
+  - [Basic V2 Template](Scripts/AutoHotKey/Basic%20V2%20Template.ahk)
+  - [Spam Left Click](Scripts/AutoHotKey/Spam%20Left%20Click.ahk)
+  - [Run Scripts In Folder](Scripts/AutoHotKey/Run%20Scripts%20In%20Folder.ahk)
