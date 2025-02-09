@@ -1,3 +1,12 @@
+; Basic AutoHotKey V2.0 script template
+; 
+; Runs when the application is active only
+; Any event handlers written in between the #HotIf will only function within the target application
+; Change the <Target Application Title> to match the application of your choice
+; 
+; PageDown = Script Pause
+; PageUp = Script Up
+
 #Requires AutoHotkey v2.0
 
 #SingleInstance Force
