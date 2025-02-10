@@ -6,7 +6,7 @@ Hope this helps.
 
 ## Scripts
 
-- AutoHotKey
-  - [Basic V2 Template](Scripts/AutoHotKey/Basic%20V2%20Template.ahk)
-  - [Spam Left Click](Scripts/AutoHotKey/Spam%20Left%20Click.ahk)
-  - [Run Scripts In Folder](Scripts/AutoHotKey/Run%20Scripts%20In%20Folder.ahk)
+- [AutoHotKey](https://autohotkey.com/)
+  - [Basic V2 Template](Scripts/AutoHotKey/Basic%20V2%20Template.ahk) : A starting template for a AHK V2 script.
+  - [Spam Left Click](Scripts/AutoHotKey/Spam%20Left%20Click.ahk) : Send multiple left clicks with a shortcut.
+  - [Run Scripts In Folder](Scripts/AutoHotKey/Run%20Scripts%20In%20Folder.ahk) : Searches for .ahk files in folders and run them.
